@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+}
+
+h2 {
+  color: green;
+}
+
+.container {
+  margin-top: 2%;
+}
+
+.labels {
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding-left: 0;
+}
+
+.inputs {
+  margin-top: 0.75%;
+  margin-left: 0
+}
+
+#heading {
+  font-size: 4rem;
+}
+
+#date {
+  margin: 0.2;
+}
